@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to Salesforce Migration](https://d2d-soft.com/salesforce-migration/779-7256-americommerce-to-salesforce-migration-tool.html#/72-entities-1000)
+- [Bagisto to Salesforce Migration](https://d2d-soft.com/salesforce-migration/946-8965-bagisto-to-salesforce-migration-tool.html#/72-entities-1000)
 - [BigCommerce to Salesforce Migration](https://d2d-soft.com/salesforce-migration/738-6946-bigcommerce-to-salesforce-migration-tool.html#/72-entities-1000)
 - [CS-Cart to Salesforce Migration](https://d2d-soft.com/salesforce-migration/739-6957-cs-cart-to-salesforce-migration-tool.html#/72-entities-1000)
 - [CubeCart to Salesforce Migration](https://d2d-soft.com/salesforce-migration/740-6968-cubecart-to-salesforce-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
