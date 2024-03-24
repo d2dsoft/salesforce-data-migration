@@ -20,6 +20,7 @@
 - [Magento to Salesforce Migration](https://d2d-soft.com/salesforce-migration/747-7045-magento-to-salesforce-migration-tool.html#/72-entities-1000)
 - [MarketPress to Salesforce Migration](https://d2d-soft.com/salesforce-migration/748-7056-marketpress-to-salesforce-migration-tool.html#/72-entities-1000)
 - [OpenCart to Salesforce Migration](https://d2d-soft.com/salesforce-migration/749-7067-opencart-to-salesforce-migration-tool.html#/72-entities-1000)
+- [osCMax to Salesforce Migration](https://d2d-soft.com/salesforce-migration/1200-11554-oscmax-to-salesforce-migration-tool.html#/72-entities-1000)
 - [osCommerce to Salesforce Migration](https://d2d-soft.com/salesforce-migration/750-7078-oscommerce-to-salesforce-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to Salesforce Migration](https://d2d-soft.com/salesforce-migration/751-7089-oxid-eshop-to-salesforce-migration-tool.html#/72-entities-1000)
 - [PrestaShop to Salesforce Migration](https://d2d-soft.com/salesforce-migration/752-7100-prestashop-to-salesforce-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
